@@ -1,0 +1,4 @@
+[submodule "gsec-support"]
+	path = gsec-support
+	url = git@github.com:clientverify/gsec-support.git
+	branch = master

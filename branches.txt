@@ -1,0 +1,9 @@
+# These are the submodule branch names that are intended to match the
+# default checkout of cliver.
+
+# Note: this information is actually already stored in .gitmodules, so
+# it is easy to update the submodules to the latest commit on that
+# branch (git submodule update --remote gsec-support).  However, we
+# repeat it here for convenience.
+
+gsec-support: master
